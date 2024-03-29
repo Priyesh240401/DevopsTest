@@ -1,0 +1,17 @@
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\DataAccesLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\DataAccesLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete

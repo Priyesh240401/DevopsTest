@@ -1,0 +1,12 @@
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.deps.json
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfo.cs
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\refint\DataAccesLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\DataAccesLayer\obj\Debug\net8.0\ref\DataAccesLayer.dll

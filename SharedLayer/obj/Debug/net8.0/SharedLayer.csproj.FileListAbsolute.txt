@@ -1,0 +1,11 @@
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\bin\Debug\net8.0\SharedLayer.deps.json
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\bin\Debug\net8.0\SharedLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\bin\Debug\net8.0\SharedLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.AssemblyInfo.cs
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\refint\SharedLayer.dll
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\SharedLayer.pdb
+C:\Users\priyeshzope\priyesh-zope\DotnetMini2\BookStore\SharedLayer\obj\Debug\net8.0\ref\SharedLayer.dll
